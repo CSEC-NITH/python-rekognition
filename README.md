@@ -1,12 +1,23 @@
-# Add your project to this repo
+### Dependencies
+* Python
+  * boto3
+  * cv2
+  * opencv
+* awscli
 
-## update readme accordingly
-
-### It should have
 #### How to run?
+
+To run analysis tool:
+```
+  py analysis.py
+```
+
+To run face detection tool:
+```
+  py detection.py
+```
+
 #### What to install and how?
 
-
-
-
-#### Add Hack2.0 in description
+1. Setup AWS account
+2. Setup Dependencies (Including aws credentials)
