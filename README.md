@@ -21,3 +21,7 @@ To run face detection tool:
 
 1. Setup AWS account
 2. Setup Dependencies (Including aws credentials)
+  ```
+    sudo apt-get install python awscli
+    pip install boto3, cv2, opencv
+  ```
